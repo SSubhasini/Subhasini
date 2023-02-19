@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+body {
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+header ul {
+    list-style-type: none;
+    margin: 0;
+    margin: 0;
+}
+header li {
+    display: inline-block;
+    margin-right: 20px;
+}
+header a {
+    text-decoration: none;
+    color: black;
+}
+header a:hover{
+    color:blue;
+}
+body
+ {
+    background-image: url("coffee.jpg.jpg");
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+}
+.hero-text {
+    text-align: center;
+    top: 50%;
+    left: 50%;
+   
+    color:black;
+}
+.hero-text h1 {
+    font-size: 50px;
+}
+.hero-text p {
+    
+}
+
+
+
+
+
+
+
